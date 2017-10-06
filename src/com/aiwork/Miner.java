@@ -1,6 +1,6 @@
 package com.aiwork;
-import dnl.utils.text.table.TextTable;
-import org.apache.log4j.Logger;
+//import dnl.utils.text.table.TextTable;
+//import org.apache.log4j.Logger;
 
 public class Miner {
 
