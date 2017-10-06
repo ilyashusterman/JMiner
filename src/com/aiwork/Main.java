@@ -12,7 +12,8 @@ public class Main {
     }
 
     private static void startPrints() {
-        logger.info("Starting");
+        logger.info("Starting...");
+        logger.info("Running on:");
         String []columnNames = {"Properties"};
         String [][]data = {{"some specifications..."}};
         TextTable tt = new TextTable(columnNames, data);
